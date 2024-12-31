@@ -1,4 +1,4 @@
-https://yashwantyadav1.github.io/Tailwind-css/
+https://razorpay-gg.netlify.app/
 # Razorpay Clone
 
 This project is a clone of Razorpay, a payment gateway system, designed to simulate its UI and functionalities. 
